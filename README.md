@@ -5,8 +5,11 @@ Hi, my name is Mason Devereux and I am a digital art and animation student at Di
 
 ![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg "Kitchen Still Life")
 
-
+Title: Kitchen Still Life
+Medium:
+Artist: Mason Devereux
 
 ![Cleats](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg "Cleats")
 
 
+![DarthVader](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-2509-Original.jpg "Darth Vader")
