@@ -1,4 +1,4 @@
-# GitHubPortfolio
+# Mason Devereux's Creative Portfolio
 Hi, my name is Mason Devereux and I am a digital art and animation student at DigiPen Institute of Technology. This growing portfolio contains some of my past artwork and completed projects.
 
 ## Drawings
