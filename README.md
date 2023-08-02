@@ -31,6 +31,10 @@ Email: mason.devereux@gmail.com
 
 ***
 
+[Drawings](https://masondevereux.github.io/#drawings "Drawings")
+
+[Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
+
 ## Drawings
 
 ![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg?raw=true "Kitchen Still Life")
@@ -234,5 +238,27 @@ Artist: Mason Devereux, age 13
 
 
 ## Digital Art
+
+***
+
+## Graphic Design
+
+***
+
+## Murals
+
+***
+
+## 3-D Modeling
+
+***
+
+## Photography
+
+***
+
+## Fashion Design
+
+***
 
 
