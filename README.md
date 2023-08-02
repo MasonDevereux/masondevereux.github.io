@@ -262,6 +262,43 @@ Artist: Mason Devereux, age 13
 
 ## Murals
 
+![GarageMural](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-1490.jpg?raw=true "GarageMural")
+
+Title: Untitled Garage Mural
+
+Date Completed: August 5, 2017
+
+Medium: Oil pastel on drywall
+
+Size: Approximately 6' by 6'
+
+Artist: Mason Devereux, age 12
+
+***
+
+![ClassroomMural](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-1487.jpg?raw=true "ClassroomMural")
+
+Title: Native American Elementary School Mural
+
+Date Completed: August 23, 2019
+
+Size: Approximately 8' by 11'
+
+Artist: Mason Devereux, age 14
+
+***
+
+![OutdoorMural](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-1488.jpg?raw=true "OutdoorMural")
+
+Title: 5th Grade *Follow Your Dreams* Mural
+
+Date Completed: April 23, 2016
+
+Size: Approximately 8' by 14'
+
+Artist: Mason Devereux, age 11
+
+
 ***
 
 ## 3-D Modeling
