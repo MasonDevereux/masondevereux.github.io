@@ -235,9 +235,9 @@ Artist: Mason Devereux, age 13
 ***
 
 
-
-
 ## Digital Art
+
+
 
 ***
 
@@ -250,6 +250,16 @@ Artist: Mason Devereux, age 13
 ***
 
 ## 3-D Modeling
+
+![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
+
+Title: Original Environment Design- Crystal Collection
+
+Date Completed: July 22, 2022
+
+Modeled on: Autodesk Maya
+
+Artist: Mason Devereux, age 17
 
 ***
 
