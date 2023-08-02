@@ -280,9 +280,29 @@ Artist: Mason Devereux, age 17
 
 ## Photography
 
+![DramaticInstruments](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1360.jpg?raw=true "DramaticInstruments")
+
+Title: Dramatic Instrument Series
+
+Date Completed: March 9, 2022
+
+Shot on: DSLR Digital Canon Camera
+
+Artist: Mason Devereux, age 17
+
 ***
 
 ## Fashion Design
+
+![ArtTranslatedHoodie](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-6255-Original.jpg?raw=true "ArtTranslatedHoodie")
+
+*Art is Universal*
+
+That was the concept for this hand-painted sweatshirt. I translated the word 'ART' into every language and painted the black text onto the white cotton hoodie. 
+
+Date Completed: December 4, 2022
+
+Artist: Mason Devereux, age 18
 
 ***
 
