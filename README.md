@@ -6,7 +6,11 @@ Hi, my name is Mason Devereux and I am a digital art and animation student at Di
 ![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg?raw=true "Kitchen Still Life")
 
 Title: Kitchen Still Life
-Medium:
+
+Medium: Graphite and Charcoal
+
+Date Completed: June 29, 2022
+
 Artist: Mason Devereux
 
 ![Cleats](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg?raw=true "Cleats")
