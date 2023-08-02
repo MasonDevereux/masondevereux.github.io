@@ -35,6 +35,21 @@ Email: mason.devereux@gmail.com
 
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
 
+[Digital Art](https://masondevereux.github.io/#digital-art "Digital Art")
+
+[Graphic Design](https://masondevereux.github.io/#graphic-design "Graphic Design")
+
+[Murals](https://masondevereux.github.io/#murals "Murals")
+
+[3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
+
+[Photography](https://masondevereux.github.io/#photography "Photography")
+
+[Fashion Design](https://masondevereux.github.io/#fashion-design "Fashion Design")
+
+
+***
+
 ## Drawings
 
 ![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg?raw=true "Kitchen Still Life")
