@@ -3,6 +3,6 @@ Hi, my name is Mason Devereux and I am a digital art and animation student at Di
 
 ## Drawings
 
-![Kitchen] (https://github.com/MasonDevereux/GitHubPortfolio/blob/main/IMG-4725-Original.jpg)
+![Kitchen] (https://github.com/MasonDevereux/GitHubPortfolio/blob/main/IMG-4725-Original.jpg "Kitchen Still Life")
 
 ![Cleats] (https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg)
