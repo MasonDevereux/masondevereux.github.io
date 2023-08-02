@@ -43,6 +43,8 @@ Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 17
 
+***
+
 
 ![HandsAndFeet](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-4788-Original.jpg?raw=true "Hands and Feet")
 
@@ -53,6 +55,8 @@ Date Completed: July 25, 2022
 Medium: Graphite pencils
 
 Artist: Mason Devereux, age 17
+
+***
 
 
 ![CommissionArtwork](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6372-Original.jpg?raw=true "Commission Artwork")
@@ -65,6 +69,8 @@ Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 18
 
+***
+
 
 ![Tiger](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6579-Original.jpg?raw=true "Tiger")
 
@@ -75,6 +81,8 @@ Date Completed: April 7, 2019
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 14
+
+***
 
 
 ![Cleats](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg?raw=true "Cleats")
@@ -87,6 +95,8 @@ Medium: Graphite pencils
 
 Artist: Mason Devereux, age 16
 
+***
+
 
 ![Tyler](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-3646-Original.jpg?raw=true "Tyler")
 
@@ -97,6 +107,8 @@ Date Completed: October 8, 2021
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 17
+
+***
 
 
 ![Trumpet](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6904-Original.jpg?raw=true "Trumpet")
@@ -109,6 +121,8 @@ Medium: Graphite pencils
 
 Artist: Mason Devereux, age 13
 
+***
+
 
 ![ElephantsMasterCopy](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6212-Original.jpg?raw=true "Elephants")
 
@@ -119,6 +133,8 @@ Date Completed: March 10, 2022
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 17
+
+***
 
 
 ![Chadwick](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-2010-Original.jpg?raw=true "Chadwick")
@@ -131,6 +147,8 @@ Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 16
 
+***
+
 
 ![DarthVader](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-2509-Original.jpg?raw=true "Darth Vader")
 
@@ -142,6 +160,8 @@ Medium: Graphite pencils
 
 Artist: Mason Devereux, age 13
 
+***
+
 
 ![Lions](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-0441%20(1).jpg?raw=true "Lions")
 
@@ -152,6 +172,8 @@ Date Completed: February 8, 2023
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 18
+
+***
 
 
 
@@ -168,6 +190,8 @@ Medium: Acrylic paint, colored pencils, and marker
 
 Artist: Mason Devereux, age 17
 
+***
+
 
 ![Scorpion](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-1359.jpg?raw=true "Scorpion")
 
@@ -178,6 +202,8 @@ Date Completed: May 4, 2022
 Medium: Pencil, pen, marker, and colored pencil
 
 Artist: Mason Devereux, age 17
+
+***
 
 
 ![Flower](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-6892.PNG?raw=true "Flower")
@@ -190,6 +216,19 @@ Medium: Oil pastels
 
 Artist: Mason Devereux, age 14
 
+***
+
+![RedFlower](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-5422-Original%20(1).jpg?raw=true "RedFlower")
+
+Title: Hiding Bloom
+
+Date Completed: May 21, 2018
+
+Medium: Oil pastels
+
+Artist: Mason Devereux, age 13
+
+***
 
 
 
