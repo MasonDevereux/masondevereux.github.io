@@ -17,6 +17,8 @@ Procreate
 
 Krita
 
+DSLR Cameras
+
 Extensive training in traditional media 
 
 Basic understanding of computer science and training with C++
@@ -27,6 +29,7 @@ Basic understanding of computer science and training with C++
 
 Email: mason.devereux@gmail.com
 
+***
 
 ## Drawings
 
@@ -78,7 +81,7 @@ Artist: Mason Devereux, age 14
 
 Title: Cleats
 
-Date Completed: July 7, 2021
+Date Completed: July 22, 2021
 
 Medium: Graphite pencils
 
@@ -155,6 +158,17 @@ Artist: Mason Devereux, age 18
 ## Colored Work
 
 
+![RopeStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-5423-Original%20(1).jpg?raw=true "RopeStillLife")
+
+Title: Escape Artist
+
+Date Completed: May 17, 2022
+
+Medium: Acrylic paint, colored pencils, and marker
+
+Artist: Mason Devereux, age 17
+
+
 ![Scorpion](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-1359.jpg?raw=true "Scorpion")
 
 Title: Microscope Study of a Scorpion
@@ -164,6 +178,19 @@ Date Completed: May 4, 2022
 Medium: Pencil, pen, marker, and colored pencil
 
 Artist: Mason Devereux, age 17
+
+
+![Flower](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-6892.PNG?raw=true "Flower")
+
+Title: A Flower for Nana
+
+Date Completed: July 8, 2019
+
+Medium: Oil pastels
+
+Artist: Mason Devereux, age 14
+
+
 
 
 
