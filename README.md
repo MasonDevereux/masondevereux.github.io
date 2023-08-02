@@ -9,7 +9,7 @@ Title: Kitchen Still Life
 Medium:
 Artist: Mason Devereux
 
-![Cleats](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg "Cleats")
+![Cleats](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg?raw=true "Cleats")
 
 
 ![DarthVader](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-2509-Original.jpg?raw=true "Darth Vader")
