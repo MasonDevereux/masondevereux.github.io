@@ -3,7 +3,7 @@ Hi, my name is Mason Devereux and I am a digital art and animation student at Di
 
 ***
 
-##### I have experience in the following programs and media:
+#### I have experience in the following programs and media:
 
 Adobe Software including Photoshop, Lightroom, Illustrator, and InDesign
 
@@ -342,5 +342,7 @@ Date Completed: December 4, 2022
 Artist: Mason Devereux, age 18
 
 ***
+
+## Thank you!
 
 
