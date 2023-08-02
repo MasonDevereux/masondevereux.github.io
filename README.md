@@ -85,6 +85,17 @@ Medium: Graphite pencils
 Artist: Mason Devereux, age 16
 
 
+![Tyler](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-3646-Original.jpg?raw=true "Tyler")
+
+Title: Portrait of Tyler, the Creator
+
+Date Completed: October 8, 2021
+
+Medium: Graphite and charcoal
+
+Artist: Mason Devereux, age 17
+
+
 ![Trumpet](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6904-Original.jpg?raw=true "Trumpet")
 
 Title: Trumpet
@@ -107,6 +118,17 @@ Medium: Graphite and charcoal
 Artist: Mason Devereux, age 17
 
 
+![Chadwick](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-2010-Original.jpg?raw=true "Chadwick")
+
+Title: Portrait of Chadwick Boseman
+
+Date Completed: September 8, 2020
+
+Medium: Graphite and charcoal
+
+Artist: Mason Devereux, age 16
+
+
 ![DarthVader](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-2509-Original.jpg?raw=true "Darth Vader")
 
 Title: Darth Vader 
@@ -116,6 +138,32 @@ Date Completed: June 1, 2018
 Medium: Graphite pencils
 
 Artist: Mason Devereux, age 13
+
+
+![Lions](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-0441%20(1).jpg?raw=true "Lions")
+
+Title: Pride of Lions 
+
+Date Completed: February 8, 2023
+
+Medium: Graphite and charcoal
+
+Artist: Mason Devereux, age 18
+
+
+
+## Colored Work
+
+
+![Scorpion](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-1359.jpg?raw=true "Scorpion")
+
+Title: Microscope Study of a Scorpion
+
+Date Completed: May 4, 2022
+
+Medium: Pencil, pen, marker, and colored pencil
+
+Artist: Mason Devereux, age 17
 
 
 
