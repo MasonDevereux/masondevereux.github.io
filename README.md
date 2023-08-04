@@ -258,6 +258,16 @@ Artist: Mason Devereux, age 13
 
 ## Graphic Design
 
+![WigoDesign](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1497.JPG?raw=true "WigoDesign")
+
+
+
+At 18 years old, I used digital vector-based illustration software to fully conceptualize an idea I had for a mobile app called Wigo. I designed all of the icons and created a presentation for the app, which is what the images above are from. 
+
+Date Completed: June 5, 2023
+
+Software Used: Adobe Illustrator, Vectornator, Curve, Procreate, and more.
+
 ***
 
 ## Murals
