@@ -260,7 +260,7 @@ Artist: Mason Devereux, age 13
 
 ![WigoDesign](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1497.JPG?raw=true "WigoDesign")
 
-
+![WigoLogo](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1494.JPG?raw=true "WigoLogo")
 
 At 18 years old, I used digital vector-based illustration software to fully conceptualize an idea I had for a mobile app called Wigo. I designed all of the icons and created a presentation for the app, which is what the images above are from. 
 
