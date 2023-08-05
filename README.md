@@ -276,7 +276,7 @@ Software Used: Procreate and Krita
 
 Artist: Mason Devereux, age 17
 
-I created this character as the central figure for a video game idea that I had. This creature lives in the center of the Earth, and one day ventures far away from home and falls down a deep pit to find themselves in the sewers of New York City. The enitre video game progresses as this character has to find their way home, traveling accross America through cities, farms, casinos, mountains, gas stations, hotels, and deserts.
+I created this character as the central figure for a video game idea that I had. This creature lives in the center of the Earth, and one day ventures far away from home and falls down a deep pit to find themselves in the sewers of New York City. The enitre video game progresses as this character has to find their way home, traveling across America through cities, farms, casinos, mountains, gas stations, hotels, and deserts.
 
 ***
 
@@ -301,6 +301,20 @@ At 18 years old, I used digital vector-based illustration software to fully conc
 Date Completed: June 5, 2023
 
 Software Used: Adobe Illustrator, Vectornator, Curve, Procreate, and more.
+
+***
+
+I designed a poetry book as an assignment for college Graphic Design class. While I didn't personally write the poems or take the photos, I searched for poetry and photography that followed an overarching theme and wove the two artistic bodies together. This assignement helped not only as an exercise in layout, but also in color and visual unity. 
+
+[PoetryBook](https://drive.google.com/file/d/1F67rb09y39P7yOXhrOIwTkLz3K2x_zdH/view?usp=drive_link "Poetry Book")
+
+Title: FREEFALL
+
+Date Completed: March 2, 2023
+
+Software Used: Adobe InDesign
+
+Designer: Mason Devereux, age 18
 
 ***
 
@@ -402,5 +416,7 @@ Artist: Mason Devereux, age 18
 ***
 
 ## Thank you!
+
+
 
 
