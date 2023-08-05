@@ -300,7 +300,7 @@ At 18 years old, I used digital vector-based illustration software to fully conc
 
 Date Completed: June 5, 2023
 
-Software Used: Adobe Illustrator, Vectornator, Curve, Procreate, and more.
+Software Used: Adobe Illustrator, Vectornator, Curve, and Procreate.
 
 ***
 
@@ -417,6 +417,8 @@ Artist: Mason Devereux, age 18
 
 ## Thank you!
 
+![MasonDevereux](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DPPFP.jpg?raw=true "MasonDevereux")
 
+***
 
 
