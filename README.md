@@ -252,7 +252,43 @@ Artist: Mason Devereux, age 13
 
 ## Digital Art
 
+![Earl1](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1493.JPG?raw=true "Earl1")
 
+Title: Original Character Design - An Alien Robot Named Earl
+
+Software Used: Procreate
+
+At 17 years old, I digitally created this floating alien robot that I like to call Earl. I have used Earl for many digital projects, two of which are linked below. The first link is a storyboard, and the second link is an animatic created from that storyboard.
+
+[EarlStoryboard](https://drive.google.com/file/d/1hY7QONO2CMx3Pi_igvSKFFkSFVLrpHDv/view?usp=sharing)
+
+[EarlAnimatic](https://www.youtube.com/watch?v=kpEC6n6C2QE)
+
+***
+
+![AgarthaCharacterSheet](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1489.jpg?raw=true "Character Sheet")
+
+Title: Original Character Sheet
+
+Date Completed: July 19, 2022
+
+Software Used: Procreate and Krita
+
+Artist: Mason Devereux, age 17
+
+I created this character as the central figure for a video game idea that I had. This creature lives in the center of the Earth, and one day ventures far away from home and falls down a deep pit to find themselves in the sewers of New York City. The enitre video game progresses as this character has to find their way home, traveling accross America through cities, farms, casinos, mountains, gas stations, hotels, and deserts.
+
+***
+
+![DigitalJars](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1491.JPG?raw=true "Digital Jars")
+
+Title: Canopic Jars
+
+Date Completed: 2021
+
+Software Used: Procreate
+
+Artist: Mason Devereux, age 16
 
 ***
 
@@ -260,9 +296,7 @@ Artist: Mason Devereux, age 13
 
 ![WigoDesign](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1497.JPG?raw=true "WigoDesign")
 
-![WigoLogo](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1494.JPG?raw=true "WigoLogo")
-
-At 18 years old, I used digital vector-based illustration software to fully conceptualize an idea I had for a mobile app called Wigo. I designed all of the icons and created a presentation for the app, which is what the images above are from. 
+At 18 years old, I used digital vector-based illustration software to fully conceptualize an idea I had for a mobile app called Wigo. I designed the logo along with all of the icons and created a presentation for the app. The design work above was used in this presenatation, along with other Wigo designs I created to demonstrate what the app would accomplish and features that it would include.
 
 Date Completed: June 5, 2023
 
