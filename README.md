@@ -104,6 +104,19 @@ Artist: Mason Devereux, age 14
 ***
 
 
+![KendrickandKeem](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-7655.JPG?raw=true "Kendrick Lamar and Baby Keem")
+
+Title: Kendrick Lamar and Baby Keem
+
+Date Completed: August 15, 2023
+
+Medium: Graphite and charcoal
+
+Artist: Mason Devereux, age 18
+
+***
+
+
 ![Cleats](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4732-Original.jpg?raw=true "Cleats")
 
 Title: Cleats
