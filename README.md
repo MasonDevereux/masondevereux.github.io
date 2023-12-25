@@ -179,7 +179,6 @@ Medium: Graphite pencils
 
 Artist: Mason Devereux, age 19
 
-Note: This was a college assignment that helped me practice my use of linear value and design/room layout.
 
 ***
 
