@@ -104,19 +104,6 @@ Artist: Mason Devereux, age 19
 ***
 
 
-![Tiger](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6579-Original.jpg?raw=true "Tiger")
-
-Title: Tiger
-
-Date Completed: April 7, 2019
-
-Medium: Graphite and charcoal
-
-Artist: Mason Devereux, age 14
-
-***
-
-
 ![KendrickandKeem](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-7655.JPG?raw=true "Kendrick Lamar and Baby Keem")
 
 Title: Kendrick Lamar and Baby Keem
@@ -139,6 +126,32 @@ Date Completed: July 22, 2021
 Medium: Graphite pencils
 
 Artist: Mason Devereux, age 16
+
+***
+
+
+![Woman with a Cigarette](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8844.jpg?raw=true "Woman with a Cigarette")
+
+Title: Woman with a Cigarette
+
+Date Completed: November 21, 2023
+
+Medium: Charcoal
+
+Artist: Mason Devereux, age 19
+
+***
+
+
+![Tiger](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6579-Original.jpg?raw=true "Tiger")
+
+Title: Tiger
+
+Date Completed: April 7, 2019
+
+Medium: Graphite and charcoal
+
+Artist: Mason Devereux, age 14
 
 ***
 
