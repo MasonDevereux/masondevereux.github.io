@@ -169,15 +169,17 @@ Artist: Mason Devereux, age 17
 ***
 
 
-![Trumpet](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6904-Original.jpg?raw=true "Trumpet")
+![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath"
 
-Title: Trumpet
+Title: Aftermath
 
-Date Completed: October 27, 2017
+Date Completed: November 15, 2023
 
 Medium: Graphite pencils
 
-Artist: Mason Devereux, age 13
+Artist: Mason Devereux, age 19
+
+Note: This was a college assignment that helped me practice my use of linear value and design/room layout.
 
 ***
 
