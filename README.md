@@ -251,15 +251,15 @@ Artist: Mason Devereux, age 19
 ***
 
 
-![RopeStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-5423-Original%20(1).jpg?raw=true "RopeStillLife")
+![Additional Still Lifes](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2160.JPG?raw=true "Additional Still Lifes")
 
-Title: Escape Artist
+Title: Additional Still Lifes
 
-Date Completed: May 17, 2022
+Date Completed: November 4th and December 4th, 2023
 
-Medium: Acrylic paint, colored pencils, and marker
+Medium: Goucahe Paint
 
-Artist: Mason Devereux, age 17
+Artist: Mason Devereux, age 19
 
 ***
 
