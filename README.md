@@ -91,19 +91,6 @@ Artist: Mason Devereux, age 18
 ***
 
 
-![JID](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_9355.jpg?raw=true "JID")
-
-Title: JID
-
-Date Completed: December 22, 2023
-
-Medium: Charcoal
-
-Artist: Mason Devereux, age 19
-
-***
-
-
 ![KendrickandKeem](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-7655.JPG?raw=true "Kendrick Lamar and Baby Keem")
 
 Title: Kendrick Lamar and Baby Keem
@@ -113,6 +100,19 @@ Date Completed: August 15, 2023
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 18
+
+***
+
+
+![JID](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_9355.jpg?raw=true "JID")
+
+Title: JID
+
+Date Completed: December 22, 2023
+
+Medium: Charcoal
+
+Artist: Mason Devereux, age 19
 
 ***
 
@@ -236,6 +236,19 @@ Artist: Mason Devereux, age 18
 
 
 ## Colored Work
+
+
+![ColorStudy](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2159.JPG?raw=true "Color Study")
+
+Title: Color Study
+
+Date Completed: October 5th and 6th, 2023
+
+Medium: Gouache Paint
+
+Artist: Mason Devereux, age 19
+
+***
 
 
 ![RopeStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-5423-Original%20(1).jpg?raw=true "RopeStillLife")
