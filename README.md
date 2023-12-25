@@ -91,6 +91,19 @@ Artist: Mason Devereux, age 18
 ***
 
 
+![JID}(https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-9355.jpg?raw=true "JID")
+
+Title: JID
+
+Date Completed: December 22, 2023
+
+Medium: Charcoal
+
+Artist: Mason Devereux, age 19
+
+***
+
+
 ![Tiger](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6579-Original.jpg?raw=true "Tiger")
 
 Title: Tiger
