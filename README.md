@@ -208,15 +208,15 @@ Artist: Mason Devereux, age 16
 ***
 
 
-![DarthVader](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-2509-Original.jpg?raw=true "Darth Vader")
+![Charcoal Still Lifes](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2158.JPG?raw=true "Charcoal Still Lifes")
 
-Title: Darth Vader 
+Title: Charcoal Still Lifes
 
-Date Completed: June 1, 2018
+Date Completed: September 22, 2023
 
-Medium: Graphite pencils
+Medium: Charcoal and white charcoal
 
-Artist: Mason Devereux, age 13
+Artist: Mason Devereux, age 19
 
 ***
 
@@ -238,9 +238,9 @@ Artist: Mason Devereux, age 18
 ## Colored Work
 
 
-![ColorStudy](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2159.JPG?raw=true "Color Study")
+![ValueStudy](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2159.JPG?raw=true "Value Study")
 
-Title: Color Study
+Title: Value Study
 
 Date Completed: October 5th and 6th, 2023
 
