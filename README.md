@@ -169,7 +169,7 @@ Artist: Mason Devereux, age 17
 ***
 
 
-![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath"
+![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath")
 
 Title: Aftermath
 
