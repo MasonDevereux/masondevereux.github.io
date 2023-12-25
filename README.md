@@ -91,7 +91,7 @@ Artist: Mason Devereux, age 18
 ***
 
 
-![JID}(https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-9355.jpg?raw=true "JID")
+![JID](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_9355.jpg?raw=true "JID")
 
 Title: JID
 
