@@ -9,9 +9,15 @@ Adobe Software including Photoshop, Lightroom, Illustrator, and InDesign
 
 Autodesk Maya
 
+Blender
+
+Unreal Engine
+
 StoryBoard Pro
 
 ToonBoom Harmony
+
+TV Paint
 
 Procreate
 
@@ -43,7 +49,7 @@ Email: mason.devereux@gmail.com
 
 [3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
 
-[Music](https://masondevereux.github.io/#Music "Music")
+[Music](https://masondevereux.github.io/#music "Music")
 
 [Photography](https://masondevereux.github.io/#photography "Photography")
 
