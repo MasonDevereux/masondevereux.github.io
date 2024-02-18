@@ -465,6 +465,8 @@ Date Completed: February 14, 2024
 
 Artist: Mason Devereux, age 19
 
+***
+
 
 ## Photography
 
