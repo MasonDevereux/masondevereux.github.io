@@ -43,6 +43,8 @@ Email: mason.devereux@gmail.com
 
 [3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
 
+[Music](https://masondevereux.github.io/#Music "Music")
+
 [Photography](https://masondevereux.github.io/#photography "Photography")
 
 [Fashion Design](https://masondevereux.github.io/#fashion-design "Fashion Design")
@@ -451,6 +453,17 @@ Modeled on: Blender
 Artist: Mason Devereux, age 19
 
 ***
+
+
+## Music
+
+[Return to Agartha](https://youtube.com/playlist?list=PLNJz4jIBR91QnfNSDLi7do_bORDqgtFXS&si=KENOiXaoav1Tu9fG "Return to Agartha")
+
+Title: Return to Agartha Original Game Soundtrack
+
+Date Completed: February 14, 2024
+
+Artist: Mason Devereux, age 19
 
 
 ## Photography
