@@ -474,11 +474,26 @@ Artist: Mason Devereux, age 19
 
 ![VintageElectronicsShop](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.03.04-14.05.32.png?raw=true "VintageElectronicsShop")
 
+
 Title: Vintage Electronics Shop Interior Blockout
 
 Date Completed: March 4, 2024
 
 Modeled on: Unreal Engine
+
+Artist: Mason Devereux, age 19
+
+***
+
+![SeedsOfStrifeHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.03.04-14.05.32.png?raw=true "SeedsOfStrifeHouse")
+
+This modeling/setdressing project was part of a larger collaborative production involving UI design, story elements, character creation, and more. The linked video shows the final executable that my team and I made: [Seeds Of Strife Video](https://www.youtube.com/watch?v=4ohm2DKuwzs)
+
+Title: Seeds of Strife House
+
+Date Completed: April 15, 2024
+
+Modeled on: Unreal Engine, Megascan assets used.
 
 Artist: Mason Devereux, age 19
 
