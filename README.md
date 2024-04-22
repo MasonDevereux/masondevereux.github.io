@@ -192,32 +192,6 @@ Artist: Mason Devereux, age 17
 ***
 
 
-![ElephantsMasterCopy](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6212-Original.jpg?raw=true "Elephants")
-
-Title: Elephants Master Copy
-
-Date Completed: March 10, 2022
-
-Medium: Graphite and charcoal
-
-Artist: Mason Devereux, age 17
-
-***
-
-
-![Chadwick](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-2010-Original.jpg?raw=true "Chadwick")
-
-Title: Portrait of Chadwick Boseman
-
-Date Completed: September 8, 2020
-
-Medium: Graphite and charcoal
-
-Artist: Mason Devereux, age 16
-
-***
-
-
 ![Charcoal Still Lifes](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2158.JPG?raw=true "Charcoal Still Lifes")
 
 Title: Charcoal Still Lifes
@@ -240,6 +214,19 @@ Date Completed: February 8, 2023
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 18
+
+***
+
+
+![FigureMasterCopy](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP24_ART2110_BHooper_MDevereux_I65.jpg?raw=true "FigureMasterCopy")
+
+Title: Figure Study 1, Master Copy
+
+Date Completed: March 5, 2024
+
+Medium: Charcoal
+
+Artist: Mason Devereux, age 19
 
 ***
 
