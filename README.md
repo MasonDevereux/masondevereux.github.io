@@ -39,6 +39,8 @@ Email: mason.devereux@gmail.com
 
 [Drawings](https://masondevereux.github.io/#drawings "Drawings")
 
+[Design and Linear Value](https://masondevereux.github.io/#design-and-linear-value "Design and Linear Value")
+
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
 
 [Digital Art](https://masondevereux.github.io/#digital-art "Digital Art")
@@ -177,20 +179,6 @@ Artist: Mason Devereux, age 17
 ***
 
 
-![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath")
-
-Title: Aftermath
-
-Date Completed: November 15, 2023
-
-Medium: Graphite pencils
-
-Artist: Mason Devereux, age 19
-
-
-***
-
-
 ![ElephantsMasterCopy](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6212-Original.jpg?raw=true "Elephants")
 
 Title: Elephants Master Copy
@@ -239,6 +227,38 @@ Date Completed: February 8, 2023
 Medium: Graphite and charcoal
 
 Artist: Mason Devereux, age 18
+
+***
+
+
+![FigureDrawings](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP24_ART2110_BHooper_MDevereux_I85.JPG?raw=true "FigureDrawings")
+
+In Spring of 2024, I attended a 15 week Figure Drawing class. I participated in over 25 three-hour sessions to draw nude models and study the human figure. I did everything from 30-second gesture drawings meant to discover the line of action to 90 minute static poses, allowing me to dive deeper into the values present. The image above is a compilation of some of my best work from the quicker poses over the course of this class.
+
+Title: Human Figure Studies 
+
+Date Completed: April 3, 2024
+
+Medium: Charcoal Pencil
+
+Artist: Mason Devereux, age 19
+
+***
+
+
+## Design and Linear Value
+
+
+![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath")
+
+Title: Aftermath
+
+Date Completed: November 15, 2023
+
+Medium: Graphite pencils
+
+Artist: Mason Devereux, age 19
+
 
 ***
 
