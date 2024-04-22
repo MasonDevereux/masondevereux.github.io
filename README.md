@@ -39,8 +39,6 @@ Email: mason.devereux@gmail.com
 
 [Drawings](https://masondevereux.github.io/#drawings "Drawings")
 
-[Design and Linear Value](https://masondevereux.github.io/#design-and-linear-value "Design and Linear Value")
-
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
 
 [Digital Art](https://masondevereux.github.io/#digital-art "Digital Art")
@@ -246,14 +244,25 @@ Artist: Mason Devereux, age 19
 ***
 
 
-## Design and Linear Value
-
-
 ![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath")
 
-Title: Aftermath
+Title: Aftermath, Original Interior and Design
 
 Date Completed: November 15, 2023
+
+Medium: Graphite pencils
+
+Artist: Mason Devereux, age 19
+
+
+***
+
+
+![BranchStudy](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/S24_ART1120E_SMoody_MDevereux_I07.JPG?raw=true "BranchStudy")
+
+Title: Branch Study
+
+Date Completed: January 25, 2024
 
 Medium: Graphite pencils
 
