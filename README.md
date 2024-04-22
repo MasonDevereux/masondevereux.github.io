@@ -1,5 +1,5 @@
 # Mason Devereux's Creative Portfolio
-Hi, my name is Mason Devereux and I am a digital art and animation student at DigiPen Institute of Technology. This growing portfolio contains some of my past artwork and completed projects.
+Hello! My name is Mason Devereux and I am a digital art and animation student at DigiPen Institute of Technology. This growing portfolio contains some of my past artwork and completed projects.
 
 ***
 
@@ -25,11 +25,13 @@ Krita
 
 DSLR Cameras
 
-Extensive training in traditional media 
+Extensive training in traditional media with a focus on charcoal
 
 Basic understanding of computer science and training with C++
 
 ***
+
+I have been trained in many different artistic disciplines; In addition to the digital, traditional, and photographical training listed above, I've also taken classes to study the following: Animation, Figure Drawing, Environment and Prop design, Light and Color with a focus on gouche painting, Art History, Film and Animation History, Storytelling, and a class dedicated to explorating the 3d production pipeline with a focus on collaboration and communication using revision control to create projects large in scope as a team. 
 
 ### Contact Information
 
