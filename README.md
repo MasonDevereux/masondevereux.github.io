@@ -140,6 +140,19 @@ Artist: Mason Devereux, age 16
 ***
 
 
+![SkeletonHand](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP24_ART2110_BHooper_MDevereux_I84.jpg?raw=true "SkeletonHand")
+
+Title: Skeleton Hand
+
+Date Completed: April 3, 2024
+
+Medium: Charcoal Pencil
+
+Artist: Mason Devereux, age 19
+
+***
+
+
 ![Woman with a Cigarette](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8844.jpg?raw=true "Woman with a Cigarette")
 
 Title: Woman with a Cigarette
