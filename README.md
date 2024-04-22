@@ -31,7 +31,7 @@ Basic understanding of computer science and training with C++
 
 ***
 
-I have been trained in many different artistic disciplines; In addition to the digital, traditional, and photographical training listed above, I've also taken classes to study the following: Animation, Figure Drawing, Environment and Prop design, Light and Color with a focus on gouche painting, Art History, Film and Animation History, Storytelling, and a class dedicated to explorating the 3d production pipeline with a focus on collaboration and communication using revision control to create projects large in scope as a team. 
+I have been trained in many different artistic disciplines; In addition to the digital, traditional, and photographical training listed above, I've also taken classes to study the following: Animation, Figure Drawing, Environment and Prop design, Light and Color with a focus on gouache painting, Art History, Film and Animation History, Storytelling, and a class dedicated to explorating the 3d production pipeline with a focus on collaboration and communication using revision control to create projects large in scope as a team. 
 
 ### Contact Information
 
