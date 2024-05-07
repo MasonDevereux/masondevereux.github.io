@@ -2,36 +2,9 @@
 Hello! My name is Mason Devereux and I am a digital art and animation student at DigiPen Institute of Technology. This growing portfolio contains some of my past artwork and completed projects.
 
 ***
-
-#### I have experience in the following programs and media:
-
-Adobe Software including Photoshop, Lightroom, Illustrator, and InDesign
-
-Autodesk Maya
-
-Blender
-
-Unreal Engine
-
-StoryBoard Pro
-
-ToonBoom Harmony
-
-TV Paint
-
-Procreate
-
-Krita
-
-DSLR Cameras
-
-Extensive training in traditional media with a focus on charcoal
-
-Basic understanding of computer science and training with C++
-
-***
-
-I have been trained in many different artistic disciplines; In addition to the digital, traditional, and photographical training listed above, I've also taken classes to study the following: Animation, Figure Drawing, Environment and Prop design, Light and Color with a focus on gouache painting, Art History, Film and Animation History, Storytelling, and a class dedicated to explorating the 3d production pipeline with a focus on collaboration and communication using revision control to create projects large in scope as a team. 
+#### Resume
+Below is a link to my professional Resume; Here you can find information about my schooling, work, and software experience.
+[Resume](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/MasonDevereuxResumeAugust2024.pdf)
 
 ### Contact Information
 
