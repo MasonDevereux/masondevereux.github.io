@@ -2,8 +2,9 @@
 Hello! My name is Mason Devereux and I am a digital art and animation student at DigiPen Institute of Technology. This growing portfolio contains some of my past artwork and completed projects.
 
 ***
-#### Resume
+### Resume
 Below is a link to my professional Resume; Here you can find information about my schooling, work, and software experience.
+
 [Resume](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/MasonDevereuxResumeAugust2024.pdf)
 
 ### Contact Information
