@@ -1,5 +1,5 @@
 # Mason Devereux's Creative Portfolio
-Hello! My name is Mason Devereux and I am a digital art and animation student at DigiPen Institute of Technology. This growing portfolio contains some of my past artwork and completed projects.
+Hello! My name is Mason Devereux and I am student at DigiPen Institute of Technology, working towards my Bachelor of Fine Arts Degree in Digital Art and Animation. This growing portfolio contains some of my past artwork and completed projects.
 
 ***
 ### Resume
