@@ -33,6 +33,8 @@ Email: mason.devereux@gmail.com
 
 [Fashion Design](https://masondevereux.github.io/#fashion-design "Fashion Design")
 
+[Jobs](https://masondevereux.github.io/#jobs "Jobs")
+
 
 ***
 
