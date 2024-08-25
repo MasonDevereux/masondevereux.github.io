@@ -282,19 +282,6 @@ Artist: Mason Devereux, age 19
 ***
 
 
-![Scorpion](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-1359.jpg?raw=true "Scorpion")
-
-Title: Microscope Study of a Scorpion
-
-Date Completed: May 4, 2022
-
-Medium: Pencil, pen, marker, and colored pencil
-
-Artist: Mason Devereux, age 17
-
-***
-
-
 ![Flower](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-6892.PNG?raw=true "Flower")
 
 Title: A Flower for Nana
@@ -304,18 +291,6 @@ Date Completed: July 8, 2019
 Medium: Oil pastels
 
 Artist: Mason Devereux, age 14
-
-***
-
-![RedFlower](https://github.com/MasonDevereux/masondevereux.github.io/blob/Colored-Work/IMG-5422-Original%20(1).jpg?raw=true "RedFlower")
-
-Title: Hiding Bloom
-
-Date Completed: May 21, 2018
-
-Medium: Oil pastels
-
-Artist: Mason Devereux, age 13
 
 ***
 
@@ -374,7 +349,7 @@ Software Used: Adobe Illustrator, Vectornator, Curve, and Procreate.
 
 ***
 
-I designed a poetry book as an assignment for college Graphic Design class. While I didn't personally write the poems or take the photos, I searched for poetry and photography that followed an overarching theme and wove the two artistic bodies together. This assignement helped not only as an exercise in layout, but also in color and visual unity. 
+I designed a poetry book as an assignment for college Graphic Design class. While I didn't personally write the poems or take the photos, I searched for poetry and photography that followed an overarching theme and wove the two artistic bodies together. This project helped not only as an exercise in layout, but also in color and visual unity. 
 
 [PoetryBook](https://drive.google.com/file/d/1F67rb09y39P7yOXhrOIwTkLz3K2x_zdH/view?usp=drive_link "Poetry Book")
 
