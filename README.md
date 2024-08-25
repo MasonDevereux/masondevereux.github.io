@@ -550,6 +550,24 @@ Artist: Mason Devereux, age 18
 
 ***
 
+## Jobs
+
+![iDTechInstructorPhoto](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/iDTechHelpingPhoto.jpg?raw=true "iDTechInstructorPhoto")
+
+#### iD Tech Lead Instructor
+
+During the summer of 2024, I worked as an instructor for the University of Washington branch of iD Tech. For six weeks, I taught campers aged 10-12 and 13-17 how to 3d model using Blender. I began with teaching them all of the basic tools and the difference between object mode and edit mode, and as we advanced throughout our class we were able to dive into more advanced concepts. I taught my campers how to use modifers such as boolean and shrinkwrap, how to extrude, loop cut, bevel, and event how to sculpt. Beyond showing them the ropes of blender and answering all of their questions as they took on their projects throughout the summer, I also taught them how to 3d print their creations. We used Flashprint MP as our slicing software and Monoprice Voxel printers. It was so cool to see my campers go from knowing nothing about 3d modeling to falling in love with it and being exciting about making whatever they could dream up, all because of my instruction. I loved this job, and it made me even more exciting about pursuing 3d modeling as a career. Over the course of the summer I taught a total of aboout 50 campers how to 3d model in Blender.
+
+Additionally, I taught a 2d art and animation class using Adobe software. I also was a lead instructor and overnight instructor with iD Tech, which means I was often in charge of conflict resolution and healthcare administration with the 10-17 year old campers. This job provided me with a lot of experience in mediating, problem-solving, being patient with new learners, and leading, both my campers and my co-workers.
+
+***
+
+#### DigiPen Orientation Leader
+
+While this position only lasted a couple of weeks for freshmen onboarding, it was a great oppurtunity for me to get the incoming students excited about DigiPen and answer all of their questions. I enjoyed giving the students and their familes tours of DigiPen's campus and showing all of the school's accomplishments and amenities. Leaving home for the first time and going to college can be scary, and my job was to reassure the freshmen that they had a home at DigiPen. I helped them break the ice with their future peers and make new friends. I taught them about the many clubs and oppurtunities DigiPen offers to help them find their community. I assured them that if they were interested in a career in video games or animation, DigiPen is the place to be.
+
+***
+
 ## Thank you!
 
 ![MasonDevereux](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DPPFP.jpg?raw=true "MasonDevereux")
