@@ -539,6 +539,8 @@ Additionally, I taught a 2d art and animation class using Adobe software. I also
 
 ***
 
+![OrientationLeaderPhoto](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/OLHelpingPhoto.jpg?raw=true "OrientationLeaderPhoto")
+
 #### DigiPen Orientation Leader
 
 While this position only lasted a couple of weeks for freshmen onboarding, it was a great oppurtunity for me to get the incoming students excited about DigiPen and answer all of their questions. I enjoyed giving the students and their familes tours of DigiPen's campus and showing all of the school's accomplishments and amenities. Leaving home for the first time and going to college can be scary, and my job was to reassure the freshmen that they had a home at DigiPen. I helped them break the ice with their future peers and make new friends. I taught them about the many clubs and oppurtunities DigiPen offers to help them find their community. I assured them that if they were interested in a career in video games or animation, DigiPen is the place to be.
