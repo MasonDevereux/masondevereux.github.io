@@ -307,6 +307,8 @@ Software Used: Procreate
 
 In 2024 I wrote a full original musical. Along with the script, I also designed cartoon versions of each of the main characters and created visual representations of a few scenes and set pieces. The image above shows 5 original character sheets I completed for this personal project.
 
+***
+
 
 ![Earl1](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1493.JPG?raw=true "Earl1")
 
