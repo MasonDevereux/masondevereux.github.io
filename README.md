@@ -297,6 +297,17 @@ Artist: Mason Devereux, age 14
 
 ## Digital Art
 
+![OriginalMusicalCharacterSheets](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/OriginalMusicalCharacterSheets.JPG?raw=true "OriginalMusicalCharacterSheets")
+
+Title: Original Musical Character Sheets
+
+Date Completed: September 7, 2024
+
+Software Used: Procreate
+
+In 2024 I wrote a full original musical. Along with the script, I also designed cartoon versions of each of the main characters and created visual representations of a few scenes and set pieces. The image above shows 5 original character sheets I completed for this personal project.
+
+
 ![Earl1](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1493.JPG?raw=true "Earl1")
 
 Title: Original Character Design - An Alien Robot Named Earl
