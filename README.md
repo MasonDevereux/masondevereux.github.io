@@ -131,44 +131,6 @@ Artist: Mason Devereux, age 19
 ***
 
 
-![Woman with a Cigarette](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8844.jpg?raw=true "Woman with a Cigarette")
-
-Title: Woman with a Cigarette
-
-Date Completed: November 21, 2023
-
-Medium: Charcoal
-
-Artist: Mason Devereux, age 19
-
-***
-
-
-![Tiger](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-6579-Original.jpg?raw=true "Tiger")
-
-Title: Tiger
-
-Date Completed: April 7, 2019
-
-Medium: Graphite and charcoal
-
-Artist: Mason Devereux, age 14
-
-***
-
-
-![Tyler](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-3646-Original.jpg?raw=true "Tyler")
-
-Title: Portrait of Tyler, the Creator
-
-Date Completed: October 8, 2021
-
-Medium: Graphite and charcoal
-
-Artist: Mason Devereux, age 17
-
-***
-
 
 ![Charcoal Still Lifes](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_2158.JPG?raw=true "Charcoal Still Lifes")
 
@@ -220,20 +182,6 @@ Date Completed: April 3, 2024
 Medium: Charcoal Pencil
 
 Artist: Mason Devereux, age 19
-
-***
-
-
-![Aftermath](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_8771.jpg?raw=true "Aftermath")
-
-Title: Aftermath, Original Interior and Design
-
-Date Completed: November 15, 2023
-
-Medium: Graphite pencils
-
-Artist: Mason Devereux, age 19
-
 
 ***
 
@@ -324,19 +272,6 @@ At 17 years old, I digitally created this floating alien robot that I like to ca
 
 ***
 
-![AgarthaCharacterSheet](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1489.jpg?raw=true "Character Sheet")
-
-Title: Original Character Sheet
-
-Date Completed: July 19, 2022
-
-Software Used: Procreate and Krita
-
-Artist: Mason Devereux, age 17
-
-I created this character as the central figure for a video game idea that I had. This creature lives in the center of the Earth, and one day ventures far away from home and falls down a deep pit to find themselves in the sewers of New York City. The enitre video game progresses as this character has to find their way home, traveling across America through cities, farms, casinos, mountains, gas stations, hotels, and deserts.
-
-***
 
 ![DigitalJars](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1491.JPG?raw=true "Digital Jars")
 
