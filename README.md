@@ -431,6 +431,20 @@ Artist: Mason Devereux, age 17
 
 ***
 
+![MovieIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3084.jpg?raw=true "MovieIsland")
+
+Final Island Turnaround Video: [MovieIslandTurnaround](https://youtu.be/zTvUpXZf9p4?si=rSaXwl7iRfzo-7sT)
+
+Title: Movie Island Blockout
+
+Date Completed: September 12, 2024
+
+Modeled on: Unreal Engine
+
+Artist: Mason Devereux, age 20
+
+***
+
 ![FirstHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4715-Original.jpg?raw=true "FirstHouse")
 
 This is one of the first 3-D modeling projects I ever took on! Modeling this simple house helped me learn how to use the basics of 3-D modeling software.
