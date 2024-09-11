@@ -17,6 +17,8 @@ Email: mason.devereux@gmail.com
 
 [Drawings](https://masondevereux.github.io/#drawings "Drawings")
 
+[3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
+
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
 
 [Digital Art](https://masondevereux.github.io/#digital-art "Digital Art")
@@ -24,8 +26,6 @@ Email: mason.devereux@gmail.com
 [Graphic Design](https://masondevereux.github.io/#graphic-design "Graphic Design")
 
 [Murals](https://masondevereux.github.io/#murals "Murals")
-
-[3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
 
 [Music](https://masondevereux.github.io/#music "Music")
 
@@ -200,6 +200,99 @@ Artist: Mason Devereux, age 19
 ***
 
 
+## 3-D Modeling
+
+![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
+
+Title: Original Environment Design- Crystal Collection
+
+Date Completed: July 22, 2022
+
+Modeled on: Autodesk Maya
+
+Artist: Mason Devereux, age 17
+
+***
+
+![MovieIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3084.jpg?raw=true "MovieIsland")
+
+Final Island Turnaround Video: [MovieIslandTurnaround](https://youtu.be/zTvUpXZf9p4?si=rSaXwl7iRfzo-7sT)
+
+Title: Movie Island Blockout
+
+Date Completed: September 12, 2024
+
+Modeled on: Unreal Engine
+
+Artist: Mason Devereux, age 20
+
+***
+
+![FirstHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4715-Original.jpg?raw=true "FirstHouse")
+
+This is one of the first 3-D modeling projects I ever took on! Modeling this simple house helped me learn how to use the basics of 3-D modeling software.
+
+Title: Original House Design
+
+Date Completed: July 13, 2022
+
+Modeled on: Autodesk Maya
+
+Artist: Mason Devereux, age 17
+
+***
+
+![HipHopInterior](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/RapRoomRender01.png?raw=true "HipHopInterior")
+
+Title: Hip-hop Room Interior
+
+Date Completed: February 18, 2024
+
+Modeled on: Blender
+
+Artist: Mason Devereux, age 19
+
+***
+
+![MusicIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/PRJScreenshot01.png?raw=true "MusicIsland")
+
+Title: Musical Island Blockout
+
+Date Completed: January 29, 2024
+
+Modeled on: Unreal Engine
+
+Artist: Mason Devereux, age 19
+
+***
+
+![VintageElectronicsShop](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.03.04-14.05.32.png?raw=true "VintageElectronicsShop")
+
+
+Title: Vintage Electronics Shop Interior Blockout
+
+Date Completed: March 4, 2024
+
+Modeled on: Unreal Engine
+
+Artist: Mason Devereux, age 19
+
+***
+
+![SeedsOfStrifeHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP24_PRJ1000_MasonDevereux_StartScreen_Image01.png?raw=true "SeedsOfStrifeHouse")
+
+This modeling/setdressing project was part of a larger collaborative production involving UI design, story elements, character creation, and more. The linked video shows the final executable that my team and I made: [Seeds Of Strife Video](https://www.youtube.com/watch?v=4ohm2DKuwzs)
+
+Title: Seeds of Strife House
+
+Date Completed: April 15, 2024
+
+Modeled on: Unreal Engine, Megascan assets used.
+
+Artist: Mason Devereux, age 19
+
+***
+
 
 ## Colored Work
 
@@ -351,101 +444,6 @@ Artist: Mason Devereux, age 11
 
 
 ***
-
-## 3-D Modeling
-
-![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
-
-Title: Original Environment Design- Crystal Collection
-
-Date Completed: July 22, 2022
-
-Modeled on: Autodesk Maya
-
-Artist: Mason Devereux, age 17
-
-***
-
-![MovieIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3084.jpg?raw=true "MovieIsland")
-
-Final Island Turnaround Video: [MovieIslandTurnaround](https://youtu.be/zTvUpXZf9p4?si=rSaXwl7iRfzo-7sT)
-
-Title: Movie Island Blockout
-
-Date Completed: September 12, 2024
-
-Modeled on: Unreal Engine
-
-Artist: Mason Devereux, age 20
-
-***
-
-![FirstHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4715-Original.jpg?raw=true "FirstHouse")
-
-This is one of the first 3-D modeling projects I ever took on! Modeling this simple house helped me learn how to use the basics of 3-D modeling software.
-
-Title: Original House Design
-
-Date Completed: July 13, 2022
-
-Modeled on: Autodesk Maya
-
-Artist: Mason Devereux, age 17
-
-***
-
-![HipHopInterior](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/RapRoomRender01.png?raw=true "HipHopInterior")
-
-Title: Hip-hop Room Interior
-
-Date Completed: February 18, 2024
-
-Modeled on: Blender
-
-Artist: Mason Devereux, age 19
-
-***
-
-![MusicIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/PRJScreenshot01.png?raw=true "MusicIsland")
-
-Title: Musical Island Blockout
-
-Date Completed: January 29, 2024
-
-Modeled on: Unreal Engine
-
-Artist: Mason Devereux, age 19
-
-***
-
-![VintageElectronicsShop](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.03.04-14.05.32.png?raw=true "VintageElectronicsShop")
-
-
-Title: Vintage Electronics Shop Interior Blockout
-
-Date Completed: March 4, 2024
-
-Modeled on: Unreal Engine
-
-Artist: Mason Devereux, age 19
-
-***
-
-![SeedsOfStrifeHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP24_PRJ1000_MasonDevereux_StartScreen_Image01.png?raw=true "SeedsOfStrifeHouse")
-
-This modeling/setdressing project was part of a larger collaborative production involving UI design, story elements, character creation, and more. The linked video shows the final executable that my team and I made: [Seeds Of Strife Video](https://www.youtube.com/watch?v=4ohm2DKuwzs)
-
-Title: Seeds of Strife House
-
-Date Completed: April 15, 2024
-
-Modeled on: Unreal Engine, Megascan assets used.
-
-Artist: Mason Devereux, age 19
-
-***
-
-
 
 
 ## Music
