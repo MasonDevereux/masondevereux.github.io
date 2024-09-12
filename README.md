@@ -5,7 +5,7 @@ Hello! My name is Mason Devereux and I am student at DigiPen Institute of Techno
 ### Resume
 Below is a link to my professional Resume; Here you can find information about my schooling, work, and software experience.
 
-[Resume](https://drive.google.com/file/d/1XNaFRlhyoja6AuRFlwJPjw4iuT2OM9BX/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1EpSFdjMOZBHNlYEd5Mwp-g2dKwYcHCyA/view?usp=sharing)
 
 ***
 
@@ -28,10 +28,6 @@ Email: mason.devereux@gmail.com
 [Murals](https://masondevereux.github.io/#murals "Murals")
 
 [Music](https://masondevereux.github.io/#music "Music")
-
-[Photography](https://masondevereux.github.io/#photography "Photography")
-
-[Fashion Design](https://masondevereux.github.io/#fashion-design "Fashion Design")
 
 [Jobs](https://masondevereux.github.io/#jobs "Jobs")
 
@@ -458,34 +454,6 @@ Artist: Mason Devereux, age 19
 
 ***
 
-
-## Photography
-
-![DramaticInstruments](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-1360.jpg?raw=true "DramaticInstruments")
-
-Title: Dramatic Instrument Series
-
-Date Completed: March 9, 2022
-
-Shot on: DSLR Digital Canon Camera
-
-Artist: Mason Devereux, age 17
-
-***
-
-## Fashion Design
-
-![ArtTranslatedHoodie](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-6255-Original.jpg?raw=true "ArtTranslatedHoodie")
-
-*Art is Universal*
-
-That was the concept for this hand-painted sweatshirt. I translated the word 'ART' into every language and painted the black text onto the white cotton hoodie. 
-
-Date Completed: December 4, 2022
-
-Artist: Mason Devereux, age 18
-
-***
 
 ## Jobs
 
