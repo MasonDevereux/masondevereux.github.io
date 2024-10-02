@@ -5,7 +5,7 @@ Hello! My name is Mason Devereux and I am student at DigiPen Institute of Techno
 ### Resume
 Below is a link to my professional Resume; Here you can find information about my schooling, work, and software experience.
 
-[Resume](https://drive.google.com/file/d/1EpSFdjMOZBHNlYEd5Mwp-g2dKwYcHCyA/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1d_aeNDV8v5j5wVtDFK31M9nkJ1DY1V3M/view?usp=sharing)
 
 ***
 
