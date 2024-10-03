@@ -198,6 +198,17 @@ Artist: Mason Devereux, age 19
 
 ## 3-D Modeling
 
+![Dungeon](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DungeonWithProgress.JPG?raw=true "Dungeon")
+
+Title: Dungeon
+
+Date Completed: October 3, 2024
+
+Modeled on: Autodesk Maya
+
+Artist: Mason Devereux, age 20
+
+
 ![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
 
 Title: Original Environment Design- Crystal Collection
