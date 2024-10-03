@@ -208,6 +208,8 @@ Modeled on: Autodesk Maya
 
 Artist: Mason Devereux, age 20
 
+***
+
 
 ![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
 
@@ -235,19 +237,6 @@ Artist: Mason Devereux, age 20
 
 ***
 
-![FirstHouse](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4715-Original.jpg?raw=true "FirstHouse")
-
-This is one of the first 3-D modeling projects I ever took on! Modeling this simple house helped me learn how to use the basics of 3-D modeling software.
-
-Title: Original House Design
-
-Date Completed: July 13, 2022
-
-Modeled on: Autodesk Maya
-
-Artist: Mason Devereux, age 17
-
-***
 
 ![HipHopInterior](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/RapRoomRender01.png?raw=true "HipHopInterior")
 
