@@ -19,6 +19,8 @@ Email: mason.devereux@gmail.com
 
 [3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
 
+[Current Study](https://masondevereux.github.io/#current-study "Current Study")
+
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
 
 [Digital Art](https://masondevereux.github.io/#digital-art "Digital Art")
@@ -286,6 +288,15 @@ Date Completed: April 15, 2024
 Modeled on: Unreal Engine, Megascan assets used.
 
 Artist: Mason Devereux, age 19
+
+***
+
+
+## Current Study
+
+![InProgressCharacterRig](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/RiggingInProgress01.jpg?raw=true "In Progress Character Rig")
+
+I'm currently taking a 3D animation class at DigiPen where we are learning how to build skeletons and rig characters in Autodesk Maya. 
 
 ***
 
