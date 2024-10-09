@@ -225,6 +225,18 @@ Artist: Mason Devereux, age 17
 
 ***
 
+![CastleBlockout](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.10.09-11.37.13.png?raw=true "CastleBlockout")
+
+Title: Castle Blockout
+
+Date Completed: October 9, 2024
+
+Modeled on: Unreal Engine
+
+Artist: Mason Devereux, age 20
+
+***
+
 ![MovieIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3084.jpg?raw=true "MovieIsland")
 
 Final Island Turnaround Video: [Movie Island Turnaround](https://youtu.be/zTvUpXZf9p4?si=rSaXwl7iRfzo-7sT)
@@ -472,7 +484,7 @@ Artist: Mason Devereux, age 19
 
 #### iD Tech Lead Instructor
 
-During the summer of 2024, I worked as an instructor for the University of Washington branch of iD Tech. For six weeks, I taught campers aged 10-12 and 13-17 how to 3d model using Blender. I began with teaching them all of the basic tools and the difference between object mode and edit mode, and as we advanced throughout our class we were able to dive into more advanced concepts. I taught my campers how to use modifiers such as boolean and shrinkwrap, how to extrude, loop cut, bevel, and eventually how to sculpt. Beyond showing them the ropes of blender and answering all of their questions as they took on their projects throughout the summer, I also taught them how to 3D print their creations. We used Flashprint MP as our slicing software and Monoprice Voxel printers. It was so cool to see my campers go from knowing nothing about 3d modeling to falling in love with it and being excited about making whatever they could dream up, all because of my instruction. I loved this job, and it made me even more excited about pursuing 3d modeling as a career. Over the course of the summer I taught a total of aboout 50 campers how to 3d model in Blender.
+During the summer of 2024, I worked as an instructor for the University of Washington branch of iD Tech. For six weeks, I taught campers aged 10-12 and 13-17 how to 3d model using Blender. I began with teaching them all of the basic tools and the difference between object mode and edit mode, and as we advanced throughout our class we were able to dive into more advanced concepts. I taught my campers how to use modifiers such as boolean and shrinkwrap, how to extrude, loop cut, bevel, and eventually how to sculpt. Beyond showing them the ropes of blender and answering all of their questions as they took on their projects throughout the summer, I also taught them how to 3D print their creations. We used Flashprint MP as our slicing software and Monoprice Voxel printers. It was so cool to see my campers go from knowing nothing about 3d modeling to falling in love with it and being excited about making whatever they could dream up, all because of my instruction. I loved this job, and it made me even more excited about pursuing 3d modeling as a career. Over the course of the summer I taught a total of about 50 campers how to 3d model in Blender.
 
 Additionally, I taught a 2d art and animation class using Adobe software. I also was a lead instructor and overnight instructor with iD Tech, which means I was often in charge of conflict resolution and healthcare administration with the 10-17 year old campers. This job provided me with a lot of experience in mediating, problem-solving, being patient with new learners, and leading, both my campers and my co-workers.
 
