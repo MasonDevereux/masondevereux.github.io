@@ -226,10 +226,13 @@ Artist: Mason Devereux, age 17
 ***
 
 ![CastleBlockout](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.10.09-11.37.13.png?raw=true "CastleBlockout")
+![Frankenstein'sCastle](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3234.jpeg?raw=true "Frankenstein'sCastle")
 
-Title: Castle Blockout
+Final Run-through Video: [Frankenstein’s Castle: Unreal Engine Blockout](https://youtu.be/P5SjsM9HGSQ?si=ANezxF3p9OKw-V8j)
 
-Date Completed: October 9, 2024
+Title: Frankenstein’s Castle: Unreal Engine Blockout
+
+Date Completed: October 16, 2024
 
 Modeled on: Unreal Engine
 
