@@ -360,6 +360,17 @@ Artist: Mason Devereux, age 14
 
 ## Digital Art
 
+![DigitalSelfPortrait](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DigitalSelfPortrait.jpg?raw=true "DigitalSelfPortrait")
+
+Title: Digital Self Portrait
+
+Date Completed: October 17, 2024
+
+Software Used: Photoshop, Brushes only
+
+Artist: Mason Devereux, age 20
+
+
 ![OriginalMusicalCharacterSheets](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/OriginalMusicalCharacterSheets.JPG?raw=true "OriginalMusicalCharacterSheets")
 
 Title: Original Musical Character Sheets
