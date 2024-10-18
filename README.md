@@ -370,6 +370,8 @@ Software Used: Photoshop, Brushes only
 
 Artist: Mason Devereux, age 20
 
+***
+
 
 ![OriginalMusicalCharacterSheets](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/OriginalMusicalCharacterSheets.JPG?raw=true "OriginalMusicalCharacterSheets")
 
