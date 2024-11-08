@@ -225,6 +225,19 @@ Artist: Mason Devereux, age 17
 
 ***
 
+
+![TeapotStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/TeapotStillLife.jpeg?raw=true "TeapotStillLife")
+
+Title: Teapot Still Life
+
+Date Completed: November 6, 2024
+
+Software Used: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
 ![CastleBlockout](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.10.09-11.37.13.png?raw=true "CastleBlockout")
 ![Frankenstein'sCastle](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3234.jpeg?raw=true "Frankenstein'sCastle")
 
