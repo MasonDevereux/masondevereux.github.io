@@ -226,7 +226,7 @@ Artist: Mason Devereux, age 17
 ***
 
 
-![TeapotStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/TeapotStillLife.jpeg?raw=true "TeapotStillLife")
+![TeapotStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Teapot_StillLife.JPG?raw=true "TeapotStillLife")
 
 Title: Teapot Still Life
 
