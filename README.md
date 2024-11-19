@@ -19,7 +19,7 @@ Email: mason.devereux@gmail.com
 
 [3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
 
-[Current Study](https://masondevereux.github.io/#current-study "Current Study")
+[3-D Animation and Rigging](https://masondevereux.github.io/#3-d-animation-and-rigging "3-D Animation and Rigging")
 
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
 
@@ -320,11 +320,17 @@ Artist: Mason Devereux, age 19
 ***
 
 
-## Current Study
+## 3-D Animation and Rigging
 
-![InProgressCharacterRig](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/RiggingInProgress01.jpg?raw=true "In Progress Character Rig")
+![CharacterRig](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ANI2000RigEdited.jpg?raw=true "Character Rig")
 
-I'm currently taking a 3D animation class at DigiPen where we are learning how to build skeletons and rig characters in Autodesk Maya. 
+3D Animation work from Fall 2024: [3D ANIMATION REEL FALL 2024](https://youtu.be/GFt5fnW3VoE?si=nfkK_aCjfaF9TAfo)
+
+Date Completed: November 19, 2024
+
+Software Used: Autodesk Maya
+
+Artist: Mason Devereux, age 20
 
 ***
 
