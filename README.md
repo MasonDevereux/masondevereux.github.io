@@ -200,7 +200,7 @@ Artist: Mason Devereux, age 19
 
 ## 3-D Modeling
 
-![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/F24_CG2001_Nelson_Devereux_SP_M4_10_Render.jpg?raw=true "SteampunkStillLife")
+![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3427.jpeg?raw=true "SteampunkStillLife")
 
 Title: Steampunk Still Life
 
@@ -238,18 +238,6 @@ Artist: Mason Devereux, age 17
 
 ***
 
-
-![TeapotStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Teapot_StillLife.JPG?raw=true "TeapotStillLife")
-
-Title: Teapot Still Life
-
-Date Completed: November 6, 2024
-
-Software Used: Autodesk Maya and Substance Painter
-
-Artist: Mason Devereux, age 20
-
-***
 
 ![CastleBlockout](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.10.09-11.37.13.png?raw=true "CastleBlockout")
 ![Frankenstein'sCastle](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3234.jpeg?raw=true "Frankenstein'sCastle")
