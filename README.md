@@ -200,6 +200,19 @@ Artist: Mason Devereux, age 19
 
 ## 3-D Modeling
 
+![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/F24_CG2001_Nelson_Devereux_SP_M4_10_Render.jpg?raw=true "SteampunkStillLife")
+
+Title: Steampunk Still Life
+
+Date Completed: December 2, 2024
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![Dungeon](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DungeonWithProgress.JPG?raw=true "Dungeon")
 
 Title: Dungeon
