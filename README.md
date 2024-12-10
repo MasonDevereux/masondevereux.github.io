@@ -200,6 +200,19 @@ Artist: Mason Devereux, age 19
 
 ## 3-D Modeling
 
+![TelephonePropModel](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3449.jpeg?raw=true "TelephonePropModel")
+
+Title: Telephone Prop Model
+
+Date Completed: December 9, 2024
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3427.jpeg?raw=true "SteampunkStillLife")
 
 Title: Steampunk Still Life
