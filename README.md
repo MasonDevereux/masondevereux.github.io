@@ -200,6 +200,17 @@ Artist: Mason Devereux, age 19
 
 ## 3-D Modeling
 
+![UprightBass](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3538.JPG?raw=true "UprightBass")
+
+Title: Upright Bass
+
+Date Completed: December 15, 2024
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+
 ![TelephonePropModel](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3449.jpeg?raw=true "TelephonePropModel")
 
 Title: Telephone Prop Model
