@@ -226,6 +226,17 @@ Artist: Mason Devereux, age 20
 ***
 
 
+![InProgressJazzBar](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressJazzBar.JPG?raw=true "InProgressJazzBar")
+
+Title: In Progress Jazz Bar Environment
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3427.jpeg?raw=true "SteampunkStillLife")
 
 Title: Steampunk Still Life
