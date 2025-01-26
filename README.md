@@ -366,12 +366,27 @@ Artist: Mason Devereux, age 19
 
 During my current sophomore semester at DigiPen, I am focusing on sculpting with Zbrush, using the low-to-high modeling pipeline to create environments, and working together with a team of 8 in Unreal Engine to tackling new concepts such as motion capture and implementing Metahumans into immersive environments.
 
+***
+
 
 ## 3-D Animation and Rigging
 
+![MetaHumanFacialTest](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3868.JPG?raw=true "MetaHuman Facial Test")
+
+MetaHuman Facial Animation Test from Spring 2025: [METAHUMAN FACIAL ANIMATION](https://www.youtube.com/watch?v=tPpe9lS2iL4)
+
+Date Completed: January 25, 2025
+
+Software Used: Unreal Engine 5
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![CharacterRig](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ANI2000RigEdited.jpg?raw=true "Character Rig")
 
-3D Animation work from Fall 2024: [3D ANIMATION REEL FALL 2024](https://youtu.be/GFt5fnW3VoE?si=nfkK_aCjfaF9TAfo)
+3D Animation work from Fall 2024: [3D ANIMATION AND RIGGING FALL 2024](https://youtu.be/GFt5fnW3VoE?si=nfkK_aCjfaF9TAfo)
 
 Date Completed: November 19, 2024
 
