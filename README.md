@@ -307,6 +307,12 @@ Artist: Mason Devereux, age 20
 
 ***
 
+Short Sewer Cutscene: [Unreal Sewer Cutscene](https://youtu.be/6rnkWACiPgQ?si=u90gyK3MK_zaKg6G)
+
+This was my team's 5-week short 3D cutscene made in Unreal Engine in Fall 2024. It was an opportunity to practice character animation, visual effects, camera composition and shot progression using camera sequences, revision control with perforce, and colloborating with a team to create a final video product on a short timeline.
+
+***
+
 ![MovieIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3084.jpg?raw=true "MovieIsland")
 
 Final Island Turnaround Video: [Movie Island Turnaround](https://youtu.be/zTvUpXZf9p4?si=rSaXwl7iRfzo-7sT)
