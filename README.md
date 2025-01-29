@@ -290,6 +290,7 @@ Artist: Mason Devereux, age 17
 
 ***
 
+## Unreal Engine Projects
 
 ![CastleBlockout](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.10.09-11.37.13.png?raw=true "CastleBlockout")
 ![Frankenstein'sCastle](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3234.jpeg?raw=true "Frankenstein'sCastle")
@@ -317,44 +318,6 @@ Date Completed: September 12, 2024
 Modeled on: Unreal Engine
 
 Artist: Mason Devereux, age 20
-
-***
-
-
-![HipHopInterior](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/RapRoomRender01.png?raw=true "HipHopInterior")
-
-Title: Hip-hop Room Interior
-
-Date Completed: February 18, 2024
-
-Modeled on: Blender
-
-Artist: Mason Devereux, age 19
-
-***
-
-![MusicIsland](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/PRJScreenshot01.png?raw=true "MusicIsland")
-
-Title: Musical Island Blockout
-
-Date Completed: January 29, 2024
-
-Modeled on: Unreal Engine
-
-Artist: Mason Devereux, age 19
-
-***
-
-![VintageElectronicsShop](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HighresScreenshot_2024.03.04-14.05.32.png?raw=true "VintageElectronicsShop")
-
-
-Title: Vintage Electronics Shop Interior Blockout
-
-Date Completed: March 4, 2024
-
-Modeled on: Unreal Engine
-
-Artist: Mason Devereux, age 19
 
 ***
 
