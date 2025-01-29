@@ -15,9 +15,11 @@ Email: mason.devereux@gmail.com
 
 ***
 
+[3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
+
 [Drawings](https://masondevereux.github.io/#drawings "Drawings")
 
-[3-D Modeling](https://masondevereux.github.io/#3-d-modeling "3-D Modeling")
+[Unreal Engine Projects](https://masondevereux.github.io/#unreal-engine-projects "Unreal Engine Projects")
 
 [Current Study Spring 2025](https://masondevereux.github.io/#current-study-spring-2025 "Current Study Spring 2025")
 
@@ -35,6 +37,96 @@ Email: mason.devereux@gmail.com
 
 [Jobs](https://masondevereux.github.io/#jobs "Jobs")
 
+
+***
+
+## 3-D Modeling
+
+![PilotSeat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3919.JPG?raw=true "PilotSeat")
+
+Title: Spaceship Pilot Seat
+
+Date Completed: January 28, 2025
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+![UprightBass](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3538.JPG?raw=true "UprightBass")
+
+Title: Upright Bass
+
+Date Completed: December 15, 2024
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+![TelephonePropModel](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3449.jpeg?raw=true "TelephonePropModel")
+
+Title: Telephone Prop Model
+
+Date Completed: December 9, 2024
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+![InProgressJazzBar](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressJazzBar.JPG?raw=true "InProgressJazzBar")
+
+Title: In Progress Jazz Bar Environment
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3427.jpeg?raw=true "SteampunkStillLife")
+
+Title: Steampunk Still Life
+
+Date Completed: December 2, 2024
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+![Dungeon](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DungeonWithProgress.JPG?raw=true "Dungeon")
+
+Title: Dungeon
+
+Date Completed: October 3, 2024
+
+Modeled on: Autodesk Maya
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
+
+Title: Original Environment Design- Crystal Collection
+
+Date Completed: July 22, 2022
+
+Modeled on: Autodesk Maya
+
+Artist: Mason Devereux, age 17
 
 ***
 
@@ -199,96 +291,6 @@ Artist: Mason Devereux, age 19
 
 ***
 
-
-## 3-D Modeling
-
-![PilotSeat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3919.JPG?raw=true "PilotSeat")
-
-Title: Spaceship Pilot Seat
-
-Date Completed: January 28, 2025
-
-Created with: Autodesk Maya and Substance Painter
-
-Artist: Mason Devereux, age 20
-
-***
-
-
-![UprightBass](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3538.JPG?raw=true "UprightBass")
-
-Title: Upright Bass
-
-Date Completed: December 15, 2024
-
-Created with: Autodesk Maya and Substance Painter
-
-Artist: Mason Devereux, age 20
-
-***
-
-
-![TelephonePropModel](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3449.jpeg?raw=true "TelephonePropModel")
-
-Title: Telephone Prop Model
-
-Date Completed: December 9, 2024
-
-Created with: Autodesk Maya and Substance Painter
-
-Artist: Mason Devereux, age 20
-
-***
-
-
-![InProgressJazzBar](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressJazzBar.JPG?raw=true "InProgressJazzBar")
-
-Title: In Progress Jazz Bar Environment
-
-Created with: Autodesk Maya and Substance Painter
-
-Artist: Mason Devereux, age 20
-
-***
-
-
-![SteampunkStillLife](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3427.jpeg?raw=true "SteampunkStillLife")
-
-Title: Steampunk Still Life
-
-Date Completed: December 2, 2024
-
-Created with: Autodesk Maya and Substance Painter
-
-Artist: Mason Devereux, age 20
-
-***
-
-
-![Dungeon](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/DungeonWithProgress.JPG?raw=true "Dungeon")
-
-Title: Dungeon
-
-Date Completed: October 3, 2024
-
-Modeled on: Autodesk Maya
-
-Artist: Mason Devereux, age 20
-
-***
-
-
-![CrystalRoom](https://github.com/MasonDevereux/masondevereux.github.io/blob/3D-Models/IMG-4770-Original.jpg?raw=true "CrystalRoom")
-
-Title: Original Environment Design- Crystal Collection
-
-Date Completed: July 22, 2022
-
-Modeled on: Autodesk Maya
-
-Artist: Mason Devereux, age 17
-
-***
 
 ## Unreal Engine Projects
 
