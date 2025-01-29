@@ -42,7 +42,7 @@ Email: mason.devereux@gmail.com
 
 ## 3-D Modeling
 
-![PilotSeat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3919.JPG?raw=true "PilotSeat")
+![PilotSeat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3956.JPG?raw=true "PilotSeat")
 
 Title: Spaceship Pilot Seat
 
