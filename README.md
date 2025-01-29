@@ -68,11 +68,23 @@ Artist: Mason Devereux, age 20
 ***
 
 
-![TelephonePropModel](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3449.jpeg?raw=true "TelephonePropModel")
+![HighRideEnvironmentAssets](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3955.JPG?raw=true "HighRideEnvironmentAssets")
 
-Title: Telephone Prop Model
+Title: High Ride Environment Assets
 
-Date Completed: December 9, 2024
+Date Completed: January 29, 2025
+
+Created with: Autodesk Maya, Substance Painter, and Unreal Engine 5
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+
+![InProgressJazzBar](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressJazzBar.JPG?raw=true "InProgressJazzBar")
+
+Title: In Progress Jazz Bar Environment
 
 Created with: Autodesk Maya and Substance Painter
 
@@ -81,9 +93,11 @@ Artist: Mason Devereux, age 20
 ***
 
 
-![InProgressJazzBar](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressJazzBar.JPG?raw=true "InProgressJazzBar")
+![TelephonePropModel](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3449.jpeg?raw=true "TelephonePropModel")
 
-Title: In Progress Jazz Bar Environment
+Title: Telephone Prop Model
+
+Date Completed: December 9, 2024
 
 Created with: Autodesk Maya and Substance Painter
 
