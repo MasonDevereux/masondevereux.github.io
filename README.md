@@ -42,6 +42,19 @@ Email: mason.devereux@gmail.com
 
 ## 3-D Modeling
 
+![AlienCockpit](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/CockpitRender.jpg?raw=true "AlienCockpit")
+
+Title: Alien Cockpit Diorama
+
+Date Completed: February 3, 2025
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![PilotSeat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3956.JPG?raw=true "PilotSeat")
 
 Title: Spaceship Pilot Seat
