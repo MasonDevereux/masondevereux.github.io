@@ -68,7 +68,7 @@ Artist: Mason Devereux, age 20
 ***
 
 
-![HotelLuggageCart](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Luggage_Trolley_3D_Model.JPG?raw=true "HotelLuggageCart)
+![HotelLuggageCart](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Luggage_Trolley_3D_Model.JPG?raw=true "HotelLuggageCart")
 
 Title: Hotel Luggage Cart
 
