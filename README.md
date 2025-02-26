@@ -81,6 +81,19 @@ Artist: Mason Devereux, age 20
 ***
 
 
+![Hat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_4327.JPG?raw=true "Hat")
+
+Title: Hat 3D Model
+
+Date Completed: February 26, 2025
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![UprightBass](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3538.JPG?raw=true "UprightBass")
 
 Title: Upright Bass
