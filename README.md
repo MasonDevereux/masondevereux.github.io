@@ -93,6 +93,18 @@ Artist: Mason Devereux, age 20
 
 ***
 
+![Trumpet](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/TrumpetProp.jpeg?raw=true "Trumpet")
+
+Title: Trumpet 3D Model
+
+Date Completed: March 1, 2025
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
 
 ![UprightBass](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3538.JPG?raw=true "UprightBass")
 
