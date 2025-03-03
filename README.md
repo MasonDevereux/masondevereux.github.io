@@ -133,6 +133,21 @@ Artist: Mason Devereux, age 20
 
 
 
+![AlienHead](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Alien_Retopology.JPG?raw=true "AlienHead")
+
+Title: Alien Head Retopology
+
+This is an example of a basic character model I made in Zbrush for a spacheship environment blockout. After creating the sculpt, I retopologized it to create a low-poly version with proper edge-flow.
+
+Date Completed: March 3, 2025
+
+Created with: Zbrush
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![InProgressJazzBar](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressJazzBar.JPG?raw=true "InProgressJazzBar")
 
 Title: In Progress Jazz Bar Environment
