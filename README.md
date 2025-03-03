@@ -137,7 +137,7 @@ Artist: Mason Devereux, age 20
 
 Title: Alien Head Retopology
 
-This is an example of a basic character model I made in Zbrush for a spacheship environment blockout. After creating the sculpt, I retopologized it to create a low-poly version with proper edge-flow.
+This is an example of a basic character model I made in Zbrush for a spaceship environment diorama. After creating the sculpt, I retopologized it to create a low-poly version with proper edge-flow.
 
 Date Completed: March 3, 2025
 
