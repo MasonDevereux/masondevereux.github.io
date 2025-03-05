@@ -21,8 +21,6 @@ Email: mason.devereux@gmail.com
 
 [Unreal Engine Projects](https://masondevereux.github.io/#unreal-engine-projects "Unreal Engine Projects")
 
-[Current Study Spring 2025](https://masondevereux.github.io/#current-study-spring-2025 "Current Study Spring 2025")
-
 [3-D Animation and Rigging](https://masondevereux.github.io/#3-d-animation-and-rigging "3-D Animation and Rigging")
 
 [Colored Work](https://masondevereux.github.io/#colored-work "Colored Work")
@@ -126,6 +124,22 @@ Title: High Ride Environment Assets
 Date Completed: January 29, 2025
 
 Created with: Autodesk Maya, Substance Painter, and Unreal Engine 5
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+
+![PaulAtreidesSculpt](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/PaulAtreidesSculpt.JPG?raw=true "PaulAtreidesSculpt")
+
+Title: Paul Atreides Sculpt
+
+In my Spring 2025 semester, I took a Zbrush digital sculpting class. This was one of my first major zbrush projects: a sculpt of Paul Atreides from Dune, played by Timothée Chalamet. 
+
+Date Completed: March 4, 2025
+
+Created with: Zbrush
 
 Artist: Mason Devereux, age 20
 
@@ -436,14 +450,6 @@ Artist: Mason Devereux, age 19
 
 ***
 
-
-## Current Study Spring 2025
-
-![CurrentStudySpring2025](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_3794.JPG?raw=true "Current Study Spring 2025")
-
-During my current sophomore semester at DigiPen, I am focusing on sculpting with Zbrush, using the low-to-high modeling pipeline to create environments, and working together with a team of 8 in Unreal Engine to tackling new concepts such as motion capture and implementing Metahumans into immersive environments.
-
-***
 
 
 ## 3-D Animation and Rigging
