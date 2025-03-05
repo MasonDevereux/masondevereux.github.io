@@ -79,6 +79,19 @@ Artist: Mason Devereux, age 20
 ***
 
 
+![FancyShoe](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ShoeProp.JPG?raw=true "FancyShoe")
+
+Title: Fancy Shoe 3D Model
+
+Date Completed: March 5, 2025
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereyx, age 20
+
+***
+
+
 ![Hat](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG_4327.JPG?raw=true "Hat")
 
 Title: Hat 3D Model
@@ -90,6 +103,7 @@ Created with: Autodesk Maya and Substance Painter
 Artist: Mason Devereux, age 20
 
 ***
+
 
 ![Trumpet](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/TrumpetProp.jpeg?raw=true "Trumpet")
 
