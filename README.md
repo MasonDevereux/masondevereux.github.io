@@ -40,6 +40,20 @@ Email: mason.devereux@gmail.com
 
 ## 3-D Modeling
 
+![Elevator](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ElevatorRenders.JPG?raw=true "Elevator")
+
+Title: Vintage Elevator
+
+Date Completed: March 5, 2025
+
+Created with: Autodesk Maya, Substance Painter, and rendered in Unreal Engine
+
+Details: This contained environment is a very important part of a short film I am currently working on with a team of seven other artists. In the film, *Long Way Up*, the viewer travels between different floors with an elderly bellhop character, viewing different scenes that tell a story as they ascend. Creating this vintage elevator was a vital task for me as the environment artist; I modeled the structure and props in Maya, textured it in Substance Painter, and imported into our shared Unreal Engine project. 
+
+Artist: Mason Devereux, age 20
+
+
+
 ![AlienCockpit](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/CockpitRender.jpg?raw=true "AlienCockpit")
 
 Title: Alien Cockpit Diorama
