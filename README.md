@@ -52,6 +52,8 @@ Details: This contained environment is a very important part of a short film I a
 
 Artist: Mason Devereux, age 20
 
+***
+
 
 
 ![AlienCockpit](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/CockpitRender.jpg?raw=true "AlienCockpit")
