@@ -40,6 +40,19 @@ Email: mason.devereux@gmail.com
 
 ## 3-D Modeling
 
+![Chandelier](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ChandelierModel.JPG?raw=true "Chandelier")
+
+Title: Chandelier
+
+Date Completed: March 10, 2025
+
+Created with: Autodesk Maya and Substance Painter
+
+Artist: Mason Devereux, age 20
+
+***
+
+
 ![Elevator](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ElevatorRenders.JPG?raw=true "Elevator")
 
 Title: Vintage Elevator
