@@ -40,6 +40,22 @@ Email: mason.devereux@gmail.com
 
 ## 3-D Modeling
 
+![HotelLobby](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HotelLobby.JPG?raw=true "HotelLobby")
+
+![HotelLobby Progress](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HotelLobbyProgress.JPG?raw=true "HotelLobbyProgress")
+
+Title: Hotel Lobby Environment
+
+Date Completed: March 26, 2025
+
+Created with: Autodesk Maya, Substance Painter, and Unreal Engine 5
+
+Artist: Mason Devereux, age 20
+
+***
+
+
+
 ![Chandelier](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ChandelierModel.JPG?raw=true "Chandelier")
 
 Title: Chandelier
