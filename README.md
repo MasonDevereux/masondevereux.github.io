@@ -124,6 +124,17 @@ Artist: Mason Devereux, age 20
 ***
 
 
+![InProgressCharacterSculpt](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressCharacter.JPG?raw=true "InProgressCharacterSculpt")
+
+Title: In Progress Character Sculpt
+
+Date: April 1, 2025
+
+Created with: Zbrush
+
+Details: In my Spring 2025 semester at DigiPen, I took a digital sculpting elective class where I learned all the fundamentals of Zbrush. For our final project, we were instructed to create an original character design and sculpt it from scratch. The images above show the current state of this exciting project.
+
+
 ![FancyShoe](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ShoeProp.JPG?raw=true "FancyShoe")
 
 Title: Fancy Shoe 3D Model
