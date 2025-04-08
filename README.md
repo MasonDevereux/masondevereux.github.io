@@ -85,11 +85,13 @@ Artist: Mason Devereux, age 20
 
 
 
+![AlienCockpitDiorama](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Cockpit%20Diorama.JPG?raw=true "AlienCockpitDiorama")
+
 ![AlienCockpit](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/CockpitRender.jpg?raw=true "AlienCockpit")
 
 Title: Alien Cockpit Diorama
 
-Date Completed: February 3, 2025
+Date Completed: April 7, 2025
 
 Created with: Autodesk Maya and Substance Painter
 
