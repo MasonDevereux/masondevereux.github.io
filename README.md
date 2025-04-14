@@ -203,7 +203,8 @@ Artist: Mason Devereux, age 20
 
 
 
-![PaulAtreidesSculpt](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/PaulAtreidesSculpt.JPG?raw=true "PaulAtreidesSculpt")
+![PaulAtreidesSculpt](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Atreides_Sculpt.JPG?raw=true "PaulAtreidesSculpt")
+![PaulAtreidesProgress](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Atreides_Progress.JPG?raw=true "PaulAtreidesProgress")
 
 Title: Paul Atreides Sculpt
 
