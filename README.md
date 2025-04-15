@@ -40,6 +40,22 @@ Email: mason.devereux@gmail.com
 
 ## 3-D Modeling
 
+![Pirate's_Alley](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP25_CG305_RBriley_Mason_Devereux_ProjectB_Final1.JPG?raw=true "Pirate's_Alley")
+![Pirate's_Alley02](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP25_CG305_RBriley_Mason_Devereux_ProjectB_Final3.jpg?raw=true "Pirate's_Alley02")
+![InProgressCharacterSculpt](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressCharacter.JPG?raw=true "InProgressCharacterSculpt")
+
+Title: Pirate's Alley Character Sculpt
+
+Date: April 15, 2025
+
+Modeled and textured with Zbrush, rendered with Keyshot
+
+Details: In my Spring 2025 semester at DigiPen, I took a digital sculpting elective class where I learned all the fundamentals of Zbrush. For our final project, we were instructed to create an original character design and sculpt it from scratch. The images above show some of the final renders and progress work.
+
+
+***
+
+
 ![HotelLobby](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HotelLobby.JPG?raw=true "HotelLobby")
 
 ![HotelLobby Progress](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/HotelLobbyProgress.JPG?raw=true "HotelLobbyProgress")
@@ -122,22 +138,6 @@ Date Completed: February 19, 2025
 Created with: Autodesk Maya and Substance Painter
 
 Artist: Mason Devereux, age 20
-
-***
-
-
-![Pirate's_Alley](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP25_CG305_RBriley_Mason_Devereux_ProjectB_Final1.JPG?raw=true "Pirate's_Alley")
-![Pirate's_Alley02](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP25_CG305_RBriley_Mason_Devereux_ProjectB_Final3.jpg?raw=true "Pirate's_Alley02")
-![InProgressCharacterSculpt](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/InProgressCharacter.JPG?raw=true "InProgressCharacterSculpt")
-
-Title: Pirate's Alley Character Sculpt
-
-Date: April 15, 2025
-
-Modeled and textured with Zbrush, rendered with Keyshot
-
-Details: In my Spring 2025 semester at DigiPen, I took a digital sculpting elective class where I learned all the fundamentals of Zbrush. For our final project, we were instructed to create an original character design and sculpt it from scratch. The images above show some of the final renders and progress work.
-
 
 ***
 
