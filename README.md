@@ -38,8 +38,6 @@ Date Completed: February 16, 2025
 
 Medium: Charcoal
 
-Artist: Mason Devereux, age 20
-
 ***
 
 ![ProudArtisan](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ProudArtisan.jpg?raw=true "Proud Artisan")
@@ -61,7 +59,16 @@ Date Completed: June 29, 2022
 
 Medium: Graphite and charcoal
 
-Artist: Mason Devereux, age 17
+***
+
+
+![Pantheon](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Pantheon.jpg?raw=true "Pantheon")
+
+Title: Pantheon
+
+Date Completed: June 17, 2025
+
+Medium: Charcoal
 
 ***
 
@@ -74,8 +81,6 @@ Date Completed: July 25, 2022
 
 Medium: Graphite pencils
 
-Artist: Mason Devereux, age 17
-
 ***
 
 
@@ -86,8 +91,6 @@ Title: Untitled Commission 5
 Date Completed: May 12, 2023
 
 Medium: Graphite and charcoal
-
-Artist: Mason Devereux, age 18
 
 ***
 
@@ -100,8 +103,6 @@ Date Completed: August 15, 2023
 
 Medium: Graphite and charcoal
 
-Artist: Mason Devereux, age 18
-
 ***
 
 
@@ -112,8 +113,6 @@ Title: JID
 Date Completed: December 22, 2023
 
 Medium: Charcoal
-
-Artist: Mason Devereux, age 19
 
 ***
 
@@ -126,8 +125,6 @@ Date Completed: July 22, 2021
 
 Medium: Graphite pencils
 
-Artist: Mason Devereux, age 16
-
 ***
 
 
@@ -138,8 +135,6 @@ Title: Skeleton Hand
 Date Completed: April 3, 2024
 
 Medium: Charcoal Pencil
-
-Artist: Mason Devereux, age 19
 
 ***
 
@@ -153,8 +148,6 @@ Date Completed: September 22, 2023
 
 Medium: Charcoal and white charcoal
 
-Artist: Mason Devereux, age 19
-
 ***
 
 
@@ -166,8 +159,6 @@ Date Completed: February 8, 2023
 
 Medium: Graphite and charcoal
 
-Artist: Mason Devereux, age 18
-
 ***
 
 
@@ -178,8 +169,6 @@ Title: Figure Study 1, Master Copy
 Date Completed: March 5, 2024
 
 Medium: Charcoal
-
-Artist: Mason Devereux, age 19
 
 ***
 
@@ -194,8 +183,6 @@ Date Completed: April 3, 2024
 
 Medium: Charcoal Pencil
 
-Artist: Mason Devereux, age 19
-
 ***
 
 
@@ -206,9 +193,6 @@ Title: Branch Study
 Date Completed: January 25, 2024
 
 Medium: Graphite pencils
-
-Artist: Mason Devereux, age 19
-
 
 ***
 
@@ -224,8 +208,6 @@ Date Completed: October 5th and 6th, 2023
 
 Medium: Gouache Paint
 
-Artist: Mason Devereux, age 19
-
 ***
 
 
@@ -235,9 +217,7 @@ Title: Additional Still Lifes
 
 Date Completed: November 4th and December 4th, 2023
 
-Medium: Goucahe Paint
-
-Artist: Mason Devereux, age 19
+Medium: Gouache Paint
 
 ***
 
@@ -250,8 +230,6 @@ Date Completed: July 8, 2019
 
 Medium: Oil pastels
 
-Artist: Mason Devereux, age 14
-
 ***
 
 
@@ -263,7 +241,7 @@ Title: Digital Self Portrait
 
 Date Completed: October 17, 2024
 
-Software Used: Photoshop, Brushes only
+Software Used: Photoshop, brushes only
 
 Artist: Mason Devereux, age 20
 
