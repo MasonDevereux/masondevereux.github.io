@@ -51,17 +51,6 @@ Medium: Charcoal
 ***
 
 
-![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg?raw=true "Kitchen Still Life")
-
-Title: Kitchen Still Life
-
-Date Completed: June 29, 2022
-
-Medium: Graphite and charcoal
-
-***
-
-
 ![Pantheon](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/Pantheon.jpg?raw=true "Pantheon")
 
 Title: Pantheon
@@ -69,6 +58,17 @@ Title: Pantheon
 Date Completed: June 17, 2025
 
 Medium: Charcoal
+
+***
+
+
+![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg?raw=true "Kitchen Still Life")
+
+Title: Kitchen Still Life
+
+Date Completed: June 29, 2022
+
+Medium: Graphite and charcoal
 
 ***
 
