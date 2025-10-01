@@ -42,6 +42,16 @@ Artist: Mason Devereux, age 20
 
 ***
 
+![ProudArtisan](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/ProudArtisan.jpg?raw=true "Proud Artisan")
+
+Title: Proud Artisan
+
+Date Completed: September 23, 2025
+
+Medium: Charcoal
+
+***
+
 
 ![Kitchen](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/IMG-4725-Original.jpg?raw=true "Kitchen Still Life")
 
