@@ -151,16 +151,6 @@ Medium: Charcoal and white charcoal
 ***
 
 
-![Lions](https://github.com/MasonDevereux/masondevereux.github.io/blob/Drawings/IMG-0441%20(1).jpg?raw=true "Lions")
-
-Title: Pride of Lions 
-
-Date Completed: February 8, 2023
-
-Medium: Graphite and charcoal
-
-***
-
 
 ![FigureMasterCopy](https://github.com/MasonDevereux/masondevereux.github.io/blob/main/SP24_ART2110_BHooper_MDevereux_I65.jpg?raw=true "FigureMasterCopy")
 
@@ -242,8 +232,6 @@ Title: Digital Self Portrait
 Date Completed: October 17, 2024
 
 Software Used: Photoshop, brushes only
-
-Artist: Mason Devereux, age 20
 
 ***
 
